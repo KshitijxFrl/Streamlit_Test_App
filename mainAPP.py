@@ -1,4 +1,3 @@
-from matplotlib import image
 import streamlit as st
 import webbrowser
 import pandas as pd
